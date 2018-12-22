@@ -1,6 +1,6 @@
 # GoogleAppScript_POST_API
 
-GoogleAppScriptのテンプレートです
+GoogleAppScriptのテンプレート
 
 ## GoogleAppScriptテンプレートsendEmail_postAPI
 
